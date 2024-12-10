@@ -1,7 +1,6 @@
 {
   "homepage": "https://GoblinModeRPG.github.io/GoblinModeOfficial/",
   "name": "goblinmodeofficial",
-  "private": true,
   "version": "0.0.0",
   "main": "AgoraRTC_N-4.17.0.js",
   "type": "module",
